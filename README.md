@@ -1,5 +1,8 @@
 # CycleGAN-for-Image-to-Image-Translation-between-Faces-and-Sketches
 
+## Research Paper: 
+[Tayyab_question_4_report.pdf](https://github.com/user-attachments/files/17557277/Tayyab_question_4_report.pdf)
+
 # Project Overview
 This project implements a CycleGAN model using the Person Face Sketches dataset to perform image-to-image translation between real face images and sketches. The objective is to translate a face image into a corresponding sketch and convert sketches back into realistic face images.
 
@@ -59,3 +62,9 @@ The model will output translated images (sketches from faces or faces from sketc
 
 # Results
 The CycleGAN model successfully translates between real face images and their sketch equivalents. During testing, the model generated convincing face reconstructions from sketches and produced accurate sketches from real face images.
+![WhatsApp Image 2024-10-21 at 10 03 22 PM](https://github.com/user-attachments/assets/0f2b7ad6-39ec-4997-a441-c25b0cc8276c)
+![WhatsApp Image 2024-10-21 at 10 29 02 PM](https://github.com/user-attachments/assets/289508e4-70dc-46e4-88c3-d2a47de38901)
+![WhatsApp Image 2024-10-21 at 10 04 03 PM](https://github.com/user-attachments/assets/def18455-4a64-4ebf-a00a-c9e9c7173457)
+![WhatsApp Image 2024-10-21 at 10 03 45 PM](https://github.com/user-attachments/assets/f5349d8b-98b5-4496-8bac-42a9e42da450)
+
+
